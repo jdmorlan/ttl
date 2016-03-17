@@ -1,2 +1,3 @@
 # ttl
-Things To Learn 
+
+A collection of things that I would like to learn. 
