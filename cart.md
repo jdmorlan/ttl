@@ -6,3 +6,5 @@ Classification and Regression Tree Analysis
 
 [Classification Tree](https://en.wikipedia.org/wiki/Classification_chart)
 
+[Data Modeling](https://en.wikipedia.org/wiki/Data_modeling)
+
